@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdulAhad-150
-- 👀 I’m interested in 
+- 👀 I’m interested in Application development
 - 🌱 I’m currently learning frontend and backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdulahadyaseen150@gmail.com
